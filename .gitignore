@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+monitoringSuhudanKelembapan.db
+monitoringSuhudanKelembapan.db-shm
+monitoringSuhudanKelembapan.db-wall
